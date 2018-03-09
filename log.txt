@@ -1,0 +1,7 @@
+commit bad82e398258ea8c4e64e130e9d1b5501b41540d (HEAD -> 
+logging, master)
+Author: unknown <marija.becvinovska@students.finki.ukim.mk>
+Date:   Fri Mar 9 15:46:49 2018 +0100
+
+    Initial commit
+
